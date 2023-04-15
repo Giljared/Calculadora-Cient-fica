@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculadora Científica</title>
+  <link rel="stylesheet" type="text/css" href="calculator.css">
+</head>
+<body>
+    <h1 class="title"></h1>
+  <div class="calculator">
+    <div id="display" class="display">Calculadora Científica</div> <!-- Adicionada a classe "display" à div do display -->
+    <div class="buttons">
+      <!-- Botões da calculadora -->
+      <button onclick="clearDisplay()">C</button>
+      <button onclick="deleteLastCharacter()">&#9003;</button>
+      <button onclick="appendCharacter('/')">/</button>
+      <button onclick="appendCharacter('*')">*</button>
+      <button onclick="appendCharacter('7')">7</button>
+      <button onclick="appendCharacter('8')">8</button>
+      <button onclick="appendCharacter('9')">9</button>
+      <button onclick="appendCharacter('-')">-</button>
+      <button onclick="appendCharacter('4')">4</button>
+      <button onclick="appendCharacter('5')">5</button>
+      <button onclick="appendCharacter('6')">6</button>
+      <button onclick="appendCharacter('+')">+</button>
+      <button onclick="appendCharacter('1')">1</button>
+      <button onclick="appendCharacter('2')">2</button>
+      <button onclick="appendCharacter('3')">3</button>
+      <button onclick="appendCharacter('0')">0</button>
+      <button onclick="appendCharacter('.')">.</button>
+      <button onclick="calculateResult()">=</button>
+    </div>
+  </div>
+  <script src="calculator.js"></script>
+</body>
+</html>
