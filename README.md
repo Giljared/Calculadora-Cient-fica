@@ -20,7 +20,7 @@ Dessa forma, a calculadora científica se adaptará de forma responsiva a qualqu
 
 ## As atualizações feitas incluem:
 
-A adição de uma classe "title" ao elemento <h1> para aplicar estilos específicos ao título.
+A adição de uma classe "title" ao elemento <h1> title aqui </h1> para aplicar estilos específicos ao título.
 A aplicação do estilo text-align: center; à classe "title" no arquivo CSS para centralizar o título horizontalmente.
 Com essas modificações, o título "Calculadora Científica" ficará centralizado acima da calculadora na página. Você pode ajustar ainda mais o estilo do título, como tamanho da fonte, cor, margens, etc., de acordo com suas preferências de design.
 
