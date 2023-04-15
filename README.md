@@ -1,7 +1,7 @@
 # Calculadora-Cient-fica
 Calculadora científica
-## O arquivo HTML é a página da calculadora, o arquivo CSS é responsável pelo estilo da calculadora e o arquivo JavaScript implementa a lógica da calculadora, incluindo a adição de caracteres ao visor, a limpeza do visor, a exclusão do último caractere e o cálculo do resultado.
-## Agora, o fundo da página será colorido de acordo com a cor definida na propriedade background-color do seletor body no arquivo CSS. Você pode substituir #f5f5f5 pela cor hexadecimal ou pelo valor de cor desejado para personalizar o fundo da página da calculadora científica.
+O arquivo HTML é a página da calculadora, o arquivo CSS é responsável pelo estilo da calculadora e o arquivo JavaScript implementa a lógica da calculadora, incluindo a adição de caracteres ao visor, a limpeza do visor, a exclusão do último caractere e o cálculo do resultado.
+Agora, o fundo da página será colorido de acordo com a cor definida na propriedade background-color do seletor body no arquivo CSS. Você pode substituir #f5f5f5 pela cor hexadecimal ou pelo valor de cor desejado para personalizar o fundo da página da calculadora científica.
 ## As atualizações feitas incluem:
 
 O uso de display: flex; no seletor body para criar um contêiner flexível para centralizar vertical e horizontalmente a calculadora científica na página.
